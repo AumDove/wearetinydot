@@ -70,7 +70,7 @@
 
                         <div>
                             <i class="fa fa-envelope"></i>
-                            <p><a href="mailto:admin@wearetinydot.com?subject=What's the next step?">admin@wearetinydot.com</a></p>
+                            <p><a href="mailto:hello@wearetinydot.com?subject=What's the next step?">hello@wearetinydot.com</a></p>
                         </div>
                     </div>
                 </div>

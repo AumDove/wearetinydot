@@ -101,7 +101,7 @@ get_header(); ?>
                         ?>
                     
                         <li class="single-social-links">
-                            <figure class="social-icon"><a target="_blank" href=" <?php echo $medialink ?>"<?php echo $socialicon; ?></a></figure>
+                            <figure class="social-icon"><a href=" <?php echo $medialink ?>"<?php echo $socialicon; ?></a></figure>
                             
                         </li>
                         
