@@ -22,13 +22,13 @@
                     
     <!--<h3><img class="wordmark-logo-footer" src="images/tinydot_wordmark_extratiny2.png"></h3>-->
                     <p class="footer-links">
-                            <a href="http://www.wearetinydot.dev/">Home</a>
+                            <a href="/">Home</a>
                             ·
                             <a href="http://learn.wearetinydot.com/blog" target="_blank">Blog</a>
                             ·
                             <a href="https://learn.wearetinydot.com" target="_blank">Courses</a>
                             ·
-                            <a href="http://www.wearetinydot.dev/policies/">Policies</a><!--
+                            <a href="/policies/">Policies</a><!--
                             ·
                             <a href="#">About</a>
                             ·
@@ -46,7 +46,7 @@
                             ?>
 
                             <li class="single-social-links">
-                                <figure class="social-icon"><a target="_blank" href="<?php echo $medialink ?>"<?php echo $socialicon; ?></a></figure>
+                                <figure class="social-icon"><a href="<?php echo $medialink ?>"<?php echo $socialicon; ?></a></figure>
                             </li>
 
                         <?php endwhile; //end of the loop. ?>
